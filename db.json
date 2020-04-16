@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed logic board on computer 11",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-02-09T06:53:54.384Z"
+    },
+    {
+      "id": 2,
+      "message": "harddrive reset on computer 007 *FIXED",
+      "attention": false,
+      "tech": "Dan Beltran",
+      "date": "2020-02-09T06:44:38.064Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 4,
+      "firstName": "John",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Kassy",
+      "lastName": "Ceja",
+      "id": 5
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "id": 6
+    },
+    {
+      "firstName": "Danny",
+      "lastName": "Beltran",
+      "id": 7
+    }
+  ]
+}
